@@ -1,0 +1,13 @@
+baseurl = "http://uv-lab.github.io/"
+languageCode = "zh-cn"
+title = "Write the code, Change the world"
+theme = "angels-ladder"
+
+[Params]
+#subtitle = ""
+#facebook = ""
+#twitter = "https://twitter.com/foobar"
+github = "https://github.com/uv-lab"
+profile = "/images/profile.png"
+copyright = "Written by Wayne You"
+#analytics = "UA-XXXXXXXX-X"
